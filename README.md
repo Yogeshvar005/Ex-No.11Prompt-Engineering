@@ -15,11 +15,11 @@
 # Output:
 ![image](https://github.com/user-attachments/assets/a4f908d9-debb-41f9-b7e0-a587bdf1e823)
 
-Headline: Fuel Your Kingdom with KINGSTON 💪🔥
+### Headline: Fuel Your Kingdom with KINGSTON 💪🔥
 
-Caption: Dominate your workouts and recover like royalty! KINGSTON Protein Powder is your ultimate companion for building lean muscle, boosting strength, and staying energized all day. 👑
+### Caption: Dominate your workouts and recover like royalty! KINGSTON Protein Powder is your ultimate companion for building lean muscle, boosting strength, and staying energized all day. 👑
 
-Hashtags: #KingstonPower #ProteinGoals #FitnessFuel #MuscleUp #GymLife #HealthFirst #SupplementStack #WorkoutMotivation
+### Hashtags: #KingstonPower #ProteinGoals #FitnessFuel #MuscleUp #GymLife #HealthFirst #SupplementStack #WorkoutMotivation
 
 # Result:
 A visually engaging and marketing-effective Instagram post concept for Kingston Protein Powder, featuring a powerful headline, appealing emojis, and a strong set of hashtags to improve reach and brand recognition in the fitness community.
